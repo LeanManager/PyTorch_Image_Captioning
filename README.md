@@ -5,7 +5,7 @@ In this project, we create and train a neural network to automatically generate 
 
 After using the Microsoft Common Objects in COntext (MS COCO) dataset to train the network, we test it on novel images!
 
-The project is structured as a series of sequential Jupyter notebooks:
+## The project is structured as a series of sequential Jupyter notebooks:
 
 0_Dataset.ipynb
 
